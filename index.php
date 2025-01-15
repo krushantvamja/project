@@ -80,7 +80,7 @@ if (isset($_GET['msg'])) {
     <nav class="navbar m-0 p-0 navbar-expand-lg">
        <div></div>
       <div class="divTwo">
-        <a href="about.php">About Us  ddd</a>  
+        <a href="about.php">About Us  dddssss</a>  
         <a href="#WellnessPrograms"> Wellness Programs</a>
         <a href="#DiseasesTreated">Diseases Treated</a>
         <a href="facilities.php">Facilities</a>
